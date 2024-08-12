@@ -1,0 +1,1 @@
+This repo demonstrates an autoclicker made purely in Python.
